@@ -7,7 +7,7 @@ public class HttpResponse {
 	
 	String response;
 	
-	String root = "root/";
+	String root = "root";
 	
 	public HttpResponse(HttpRequest request) {
 		req  = request;
